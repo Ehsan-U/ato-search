@@ -1,0 +1,5 @@
+.idea/
+.scrapy/
+__pycache__/
+logs/
+Pipfile*
